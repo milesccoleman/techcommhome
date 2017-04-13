@@ -180,7 +180,7 @@
 
 
         <link href="https://genially.azureedge.net/genially/assets/vendors/v1.5/view.vendors.bundle.css" rel="stylesheet" />
-        <link href="https://genially.azureedge.net/genially/assets/dist/v2.10.006/view.bundle.css" rel="stylesheet" />
+        <link href="https://genially.azureedge.net/genially/assets/dist/v2.10.009/view.bundle.css" rel="stylesheet" />
         <script>
             (function(i, s, o, g, r, a, m) {
                 i['GoogleAnalyticsObject'] = r;
@@ -363,7 +363,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/device.js/0.2.7/device.min.js"></script>
 
         <script src="https://genially.azureedge.net/genially/assets/vendors/v1.5/view.vendors.bundle.js"></script>
-        <script src="https://genially.azureedge.net/genially/assets/dist/v2.10.006/view.bundle.js"></script>
+        <script src="https://genially.azureedge.net/genially/assets/dist/v2.10.009/view.bundle.js"></script>
 
     <!-- SVG Triangle -->
 <div style="position: absolute; width: 0; height: 0; top: -5000px; left: -5000px;">
